@@ -1,12 +1,15 @@
 # SaMaCraft-Regeln
 
 ***§1 – Verhalten im Allgemeinen***
+
 §1.1 – Grundprinzip
+
 Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spieler ist verpflichtet, sich so zu verhalten, dass weder das Spielerlebnis anderer noch der Ruf des Servers beeinträchtigt werden. Das betrifft sowohl das Verhalten im Spiel als auch in allen zugehörigen Plattformen (z. B. Discord, Forum, Website).
 
 
 
 §1.2 – Respekt und Umgangston
+
 	1	Jeder Spieler, jedes Teammitglied und jeder Gast ist mit Respekt zu behandeln – unabhängig von Herkunft, Geschlecht, Religion, Sprache, Spielstil oder Erfahrung.  
 	2	Beleidigungen, Diskriminierungen, Provokationen, Mobbing, Drohungen oder jegliche Art von herabwürdigendem Verhalten werden nicht toleriert.  
 	3	Sarkasmus, Ironie oder „Spaß“ gelten nicht als Entschuldigung, wenn sich andere Spieler beleidigt oder belästigt fühlen.  
@@ -15,6 +18,7 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 
 §1.3 – Eigenverantwortung
+
 	1	Jeder Spieler ist für sein Verhalten, seinen Account und alle Handlungen, die darüber ausgeführt werden, selbst verantwortlich.  
 	2	„Ein Freund war auf meinem Account“ oder „Ich wusste das nicht“ gelten nicht als Entschuldigung.  
 	3	Jeder Spieler ist verpflichtet, sich über die jeweils aktuelle Regelversion zu informieren.  
@@ -23,6 +27,7 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 
 §1.4 – Fairness & Spielfehler
+
 	1	Das absichtliche Ausnutzen von Spielfehlern, Glitches oder Bugs (sogenannte „Exploits“) ist strengstens untersagt.  
 	2	Entdeckte Bugs sind unverzüglich einem Teammitglied zu melden und dürfen nicht weiterverbreitet oder genutzt werden.  
 	3	Wer anderen Spielern aktiv zeigt, wie man einen Bug ausnutzt, wird genauso behandelt wie derjenige, der ihn nutzt.  
@@ -30,6 +35,7 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 
 §1.5 – Identität & Nachahmung
+
 	1	Das Nachahmen oder Vortäuschen von Teammitgliedern (z. B. durch ähnliche Namen, Skins oder Ränge) ist streng verboten.  
 	2	Ebenso ist es untersagt, sich als Administrator, Moderator oder Entwickler auszugeben.  
 	3	Der Versuch, durch falsche Angaben Vertrauen zu erschleichen oder Autorität vorzutäuschen, führt zum sofortigen Bann.  
@@ -37,6 +43,7 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 
 §1.6 – Umgang mit Teamentscheidungen
+
 	1	Teamentscheidungen sind grundsätzlich zu respektieren.  
 	2	Wenn ein Spieler der Meinung ist, eine Ordnungsmaßnahme (z. B. Bann, Mute) sei ungerechtfertigt, darf er sachlich und respektvoll Einspruch erheben.  
 	3	Diskussionen mit Teammitgliedern sind nur zulässig, wenn sie:  
@@ -48,6 +55,7 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 
 §1.7 – Verhalten gegenüber Gästen & neuen Spielern
+
 	1	Neue Spieler sind freundlich zu behandeln und sollen nicht absichtlich benachteiligt, ausgeraubt oder getäuscht werden.  
 	2	Das absichtliche Erschweren des Spieleinstiegs (z. B. durch PvP-Camping bei Neulingen) ist untersagt.  
 	3	Wer sich aktiv für neue Spieler engagiert (z. B. durch Hilfe, Erklärungen oder Schutz), trägt zu einem besseren Serverklima bei und wird dementsprechend positiv bewertet.  
@@ -55,28 +63,36 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 
 §1.8 – Serverinterne Kultur
+
 	1	Der Server versteht sich als gemeinschaftliches Projekt – Respekt, Humor und Fairness stehen über Konkurrenzdenken.  
 	2	Jeder Spieler trägt Verantwortung für das Serverklima. Das absichtliche Spalten, Aufhetzen oder „Drama-Stiften“ ist untersagt.  
-	3	Gemeinsame Events, Projekte und Gemeinschaftsbauten sollen stets in einer positiven, respektvollen Atmosphäre stattfinden.  
-§2 – Chat & Kommunikation
+	3	Gemeinsame Events, Projekte und Gemeinschaftsbauten sollen stets in einer positiven, respektvollen Atmosphäre stattfinden.
+ 
+***§2 – Chat & Kommunikation***
+
 §2.1 – Grundprinzip
 Die Kommunikation auf dem Server, im Discord, Forum oder auf anderen offiziellen Plattformen soll stets respektvoll, verständlich und angenehm bleiben.
 Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu gestalten, dass sie weder provozieren noch beleidigen.
 
 
 
-§2.2 – Allgemeine Chatregeln
+***§2.2 – Allgemeine Chatregeln***
+
 	1	Spam jeglicher Art ist verboten. Dazu zählen:  
-	◦	Wiederholtes Senden gleicher oder ähnlicher Nachrichten,  
-	◦	übermäßiger Einsatz von Großbuchstaben (Capslock-Spam),  
-	◦	sinnlose oder provokante Zeichenfolgen.  
-	2	Werbung für andere Server, Communities, Discords oder externe Projekte ist nur nach ausdrücklicher Genehmigung durch die Serverleitung erlaubt.  
-	3	Chat-Flooding (z. B. das Vollspammen des Chats mit zufälligen Inhalten oder Befehlen) ist untersagt.  
+		◦	Wiederholtes Senden gleicher oder ähnlicher Nachrichten,  
+	 ◦	übermäßiger Einsatz von Großbuchstaben (Capslock-Spam),  
+	 ◦	sinnlose oder provokante Zeichenfolgen. 
+
+	2	Werbung für andere Server, Communities, Discords oder externe Projekte ist nur nach ausdrücklicher Genehmigung durch die Serverleitung erlaubt. 
+
+	3	Chat-Flooding (z. B. das Vollspammen des Chats mit zufälligen Inhalten oder Befehlen) ist untersagt. 
+
 	4	Unangemessene Themen (z. B. Gewalt, Drogen, Politik, Religion, sexuelle Inhalte) sind im öffentlichen Chat nicht gestattet.  
 
 
 
 §2.3 – Diskriminierung & Hassrede
+
 	1	Jegliche Form von Rassismus, Sexismus, Homophobie, Transphobie, politischer Hetze oder NS-Bezügen führt zum sofortigen Bann – ohne Verwarnung.  
 	2	Witze oder Andeutungen in diese Richtung werden genauso behandelt wie direkte Aussagen.  
 	3	Auch das Nachsprechen oder „ironische“ Verwenden verbotener Begriffe gilt als Regelverstoß.  
@@ -85,6 +101,7 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.4 – Links, Medien & externe Inhalte
+
 	1	Das Posten von Links, Screenshots oder Medieninhalten ist nur erlaubt, wenn sie unbedenklich und relevant für die Unterhaltung sind.  
 	2	Links dürfen nur nach Genehmigung eines Teammitglieds oder über zugelassene Befehle/Plugins gepostet werden.  
 	3	Phishing-, Werbe-, Tracking- oder IP-Logger-Links führen zum sofortigen Bann.  
@@ -93,6 +110,7 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.5 – Datenschutz & private Kommunikation
+
 	1	Das Veröffentlichen privater Nachrichten, Screenshots oder Gespräche (egal von welcher Plattform) ohne Zustimmung der Beteiligten ist streng verboten.  
 	2	Dazu zählen auch Chat-Ausschnitte aus Discord, Minecraft oder privaten Nachrichtenkanälen.  
 	3	Das sogenannte Doxxing (Veröffentlichen persönlicher Daten wie Name, Adresse, Social-Media-Profile) führt ohne Ausnahme zu einem permanenten Bann.  
@@ -100,6 +118,7 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.6 – Konflikte & Streitigkeiten
+
 	1	Der öffentliche Chat ist kein Streitplatz. Persönliche Konflikte sind privat zu klären (z. B. über DMs oder den Support).  
 	2	Wer absichtlich provoziert oder Streit öffentlich fortführt, riskiert eine Chat-Sperre oder einen Bann.  
 	3	Das Nachtreten oder Diskutieren bereits abgeschlossener Maßnahmen ist untersagt.  
@@ -108,6 +127,7 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.7 – Umgang mit dem Team
+
 	1	Supportanfragen und Meldungen sind freundlich, sachlich und präzise zu formulieren.  
 	2	Spamming des Teams, z. B. durch wiederholtes Erwähnen („@Mod“) oder übermäßige Anfragen, führt zu Verwarnungen.  
 	3	Teammitglieder sind nicht verpflichtet, auf provozierende oder unangemessene Anfragen zu reagieren.  
@@ -116,6 +136,7 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.8 – Sprache & Ausdruck
+
 	1	Der Chat soll in einer allgemein verständlichen Sprache geführt werden – vorzugsweise Deutsch oder Englisch.  
 	2	Übermäßiger Slang, Spam-Emojis oder ständige Großschreibung stören den Spielfluss und sind zu vermeiden.  
 	3	Beleidigungen oder anstößige Ausdrücke in anderen Sprachen gelten ebenfalls als Regelverstoß, auch wenn sie nicht jeder versteht.  
@@ -124,6 +145,7 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.9 – Voice-Chat (In-Game & Discord)
+
 	1	Der Voice-Chat unterliegt denselben Regeln wie der Text-Chat.  
 	2	Störgeräusche, Musik, Soundboards oder laute Hintergrundgeräusche sind nur in dafür vorgesehenen Channels erlaubt.  
 	3	Das absichtliche Schreien, Pfeifen oder Übersteuern des Mikrofons wird als Spam gewertet.  
@@ -133,10 +155,12 @@ Jeder Spieler ist verpflichtet, seine Wortwahl, Ausdrucksweise und Inhalte so zu
 
 
 §2.10 – Verhalten in Gruppen- und Event-Chats
+
 	1	Bei Server-Events oder Gruppenaktivitäten gilt ein erhöhter Anspruch an Teamfähigkeit und Ruhe im Chat.  
 	2	Event-Chats sind ausschließlich für eventbezogene Kommunikation gedacht.  
 	3	Spammen oder absichtliches Stören von Event-Chats kann zum Ausschluss vom Event führen  
-§3 – Griefing, Diebstahl & PvP
+***§3 – Griefing, Diebstahl & PvP***
+
 §3.1 – Grundprinzip
 Jeder Spieler soll frei und ohne Angst vor mutwilliger Zerstörung, Diebstahl oder Belästigung spielen können.
 Fairness, Eigentumsrechte und gegenseitiger Respekt stehen über allen PvP- oder Überlebensaspekten.
@@ -145,6 +169,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.2 – Griefing
+
 	1	Griefing bezeichnet das absichtliche Zerstören, Verändern oder Manipulieren fremder Bauwerke, Landschaften oder Einrichtungen – unabhängig davon, ob sie geschützt sind oder nicht.  
 	2	Dazu zählen insbesondere:  
 	◦	Das Abbauen, Abbrennen oder Überfluten fremder Gebäude,  
@@ -157,6 +182,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.3 – Diebstahl
+
 	1	Das Entwenden von Items, Blöcken oder Ressourcen, die eindeutig einem anderen Spieler gehören, ist strengstens verboten.  
 	2	Dazu zählt auch:  
 	◦	Das Leeren fremder Kisten, Öfen, Shulker-Boxen oder Hopper-Systeme,  
@@ -168,6 +194,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.4 – Eigentum & Mitbenutzung
+
 	1	Alle Bauwerke, Farmen und Kisten gelten grundsätzlich als Privateigentum des Erbauers oder Besitzers, sofern nicht ausdrücklich anders angegeben.  
 	2	Das gemeinsame Nutzen von Farmen oder Basen ist nur erlaubt, wenn alle Beteiligten zustimmen.  
 	3	Das Verwenden von ungeschützten Strukturen anderer Spieler ist kein Freifahrtschein – auch ungesicherte Basen unterliegen dem Schutz der Regeln.  
@@ -176,6 +203,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.5 – PvP (Spieler gegen Spieler)
+
 	1	PvP ist grundsätzlich erlaubt, sofern es im Rahmen des fairen Spielens geschieht.  
 	2	PvP darf nicht dazu missbraucht werden, andere Spieler dauerhaft zu belästigen, zu provozieren oder um deren Items zu bringen.  
 	3	PvP-Kämpfe müssen freiwillig oder regelkonform stattfinden. Unerlaubte Formen von PvP sind z. B.:  
@@ -187,6 +215,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.6 – Spawn- & Base-Camping
+
 	1	Spawn-Camping (warten und sofortiges Angreifen von neu spawnenden Spielern) ist strengstens untersagt.  
 	2	Base-Camping (dauerhaftes Belagern oder Umkreisen fremder Basen, um Spieler zu bedrängen oder anzugreifen) gilt als Belästigung und kann zu einem Bann führen.  
 	3	Auch das „Item-Campen“ – also das Warten auf Spieler, um deren Drop direkt nach dem Tod zu klauen – ist untersagt.  
@@ -195,6 +224,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.7 – Raids & Event-PvP
+
 	1	Raids oder Überfälle sind nur erlaubt, wenn sie in dafür vorgesehenen Welten oder Events stattfinden.  
 	2	Das Ausrauben anderer Basen außerhalb dieser Events gilt als Diebstahl.  
 	3	Offizielle PvP- oder Raid-Events werden immer vom Team angekündigt und geregelt – spontane Raids ohne Erlaubnis sind nicht zulässig.  
@@ -202,6 +232,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.8 – Konsequenzen bei Regelverstößen
+
 	1	Griefing, Diebstahl oder unzulässiges PvP führen je nach Schweregrad zu folgenden Maßnahmen:  
 	◦	1. Verwarnung (bei leichten Fällen),  
 	◦	2. Temporärer Bann oder Mute,  
@@ -212,6 +243,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.9 – Verantwortung in Gemeinschaftsgebieten
+
 	1	In öffentlichen Bauzonen, Städten oder Serverprojekten gelten besondere Rücksichtnahmepflichten.  
 	2	Das Bauen oder Abbauen ohne Absprache kann dort als Griefing gelten, selbst wenn keine Absicht besteht.  
 	3	Jeder Spieler ist verpflichtet, öffentliche Projekte sauber zu halten und keine Spuren oder Löcher zu hinterlassen.  
@@ -219,10 +251,12 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 
 
 §3.10 – Meldung von Regelverstößen
+
 	1	Wer Zeuge eines Griefings oder Diebstahls wird, sollte den Vorfall umgehend mit Beweismaterial (z. B. Screenshots, Koordinaten) dem Team melden.  
 	2	Eigenmächtige „Racheaktionen“ sind nicht erlaubt und können ebenfalls bestraft werden.  
 	3	Das bewusste Falschmelden anderer Spieler („Report-Trolling“) ist ebenfalls ein Regelverstoß  
-§4 – Hacking, Modifikationen & Clients
+***§4 – Hacking, Modifikationen & Clients***
+
 §4.1 – Grundprinzip
 Jeder Spieler soll ausschließlich mit sauberen, fairen und genehmigten Spielclients spielen.
 Jegliche Software, Modifikation oder externe Eingabehilfe, die einen Vorteil gegenüber anderen Spielern verschafft oder das Serververhalten verändert, ist verboten.
@@ -246,6 +280,7 @@ Der Server darf zu jeder Zeit technische Prüfungen (z. B. AntiCheat-Logs) durch
 
 
 §4.3 – Unerlaubte externe Eingabegeräte
+
 	1	Geräte oder Tools, die automatisch Eingaben simulieren oder wiederholen (z. B. AutoClick-Mäuse, Makro-Keyboards, Modifikationen durch Software wie Razer Synapse oder Logitech G Hub), sind nicht erlaubt, sofern sie spielrelevante Aktionen automatisieren.  
 	2	Wer ein solches Gerät nutzt, trägt die volle Verantwortung, wenn es zu unerlaubten Aktionen kommt.  
 	3	Das Verwenden von Scripting-Tools wie AutoHotkey, Python-Macros oder ähnlichen Programmen gilt als Hack.  
@@ -253,12 +288,17 @@ Der Server darf zu jeder Zeit technische Prüfungen (z. B. AntiCheat-Logs) durch
 
 
 §4.4 – Erlaubte und geduldete Modifikationen
+
 	1	Erlaubt sind Modifikationen, die keinen spielerischen Vorteil bieten, sondern ausschließlich visuelle oder technische Verbesserungen ermöglichen.  
 	2	Beispiele für erlaubte Mods:  
-	◦	OptiFine, Sodium, Iris, Lunar Client (ohne Addons),  
-	◦	Simple Shaders, ReplayMod (sofern nur zur Aufnahme),  
-	◦	Minimaps, wenn sie keine Spieler, Entities oder Höhlen anzeigen,  
-	◦	Performance- oder FPS-Optimierungs-Mods.  
+	 ◦	OptiFine, Sodium, Iris, Lunar Client (ohne Addons),  
+	 ◦	Simple Shaders, ReplayMod (sofern nur zur Aufnahme),  
+	 ◦	Minimaps, wenn sie keine Spieler, Entities oder Höhlen anzeigen,  
+	 ◦	Performance- oder FPS-Optimierungs-Mods.
+
+
+	 ◦ Mods wie Litemetica sind erlaubt solange diese nicht automatisiert die blöcke items usw. platieren.
+
 	3	Mods wie LabyMod, Badlion Client oder ähnliche sind grundsätzlich erlaubt, sofern keine PvP-Hilfsfunktionen oder verbotenen Addons aktiv sind.  
 	4	Das Team kann Modifikationen jederzeit nachträglich untersagen, wenn sie sich als problematisch oder unfair erweisen.  
 
@@ -267,9 +307,9 @@ Der Server darf zu jeder Zeit technische Prüfungen (z. B. AntiCheat-Logs) durch
 §4.5 – Resourcepacks & Shader
 	1	Optische Resourcepacks (z. B. HD- oder Soundpacks) sind grundsätzlich erlaubt.  
 	2	Resourcepacks, die:  
-	◦	transparente Blöcke erzeugen,  
-	◦	Erztexturen manipulieren (z. B. „Clear Stone“),  
-	◦	oder die Sichtbarkeit von Entities verändern,   gelten als X-Ray-Äquivalent und sind verboten.  
+	 ◦	transparente Blöcke erzeugen,  
+	 ◦	Erztexturen manipulieren (z. B. „Clear Stone“),  
+	 ◦	oder die Sichtbarkeit von Entities verändern,  gelten als X-Ray-Äquivalent und sind verboten.  
 	3	Shader, Licht- und Schattenmodifikationen sind erlaubt, solange sie keine Gameplay-Vorteile erzeugen.  
 
 
@@ -308,7 +348,8 @@ Der Server darf zu jeder Zeit technische Prüfungen (z. B. AntiCheat-Logs) durch
 	2	Wiederholung, Tarnung oder systematisches Hacken (z. B. über mehrere Accounts) führt zu einem Netzwerkweiten Bann.  
 	3	Bannumgehung durch Zweitaccounts oder VPNs verlängert die Sperre automatisch.  
 	4	Das Team behält sich vor, betroffene Spieler der Mojang/Microsoft Enforcement-Meldestelle zu melden.  
-§5 – Wirtschaft & Handel (falls aktiv)
+***§5 – Wirtschaft & Handel***
+
 §5.1 – Grundprinzip
 Das Wirtschaftssystem auf dem Server soll fair, transparent und nachvollziehbar sein. Jeder Spieler ist verpflichtet, ehrlich zu handeln und andere Spieler nicht zu täuschen.
 Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielgefühl und wird streng geahndet.
@@ -316,6 +357,7 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.2 – Handel zwischen Spielern
+
 	1	Alle Handelsgeschäfte müssen freiwillig und transparent erfolgen.  
 	2	Preise sollten dem realistischen Ingame-Wert entsprechen und dürfen nicht extrem überteuert sein.  
 	3	Das Manipulieren von Preisen, das absichtliche Unterbieten oder Täuschen anderer Spieler (z. B. durch falsche Mengenangaben) gilt als Scamming.  
@@ -324,6 +366,7 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.3 – Server-Shops & Handelssysteme
+
 	1	Serverinterne Shops, Händler oder Marktplätze müssen korrekt beschriftet sein: Artikelname, Menge und Preis müssen klar und sichtbar angegeben sein.  
 	2	Spamming von Shops, Schildern oder Angeboten ist verboten.  
 	3	Falsche Angaben, z. B. „verkauft für 10 Diamanten“ obwohl nur 5 genommen werden, gelten als Betrug.  
@@ -332,6 +375,7 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.4 – Echtgeld-Handel
+
 	1	Das Kaufen, Verkaufen oder Tauschen von Ingame-Gegenständen gegen echtes Geld ist auf dem Server strikt verboten.  
 	2	Ausnahmen können nur vom Serverteam offiziell genehmigt werden (z. B. für Server-Events oder Giveaways).  
 	3	Verstöße gegen diese Regel werden mit permanentem Bann geahndet.  
@@ -339,6 +383,7 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.5 – Scamming & Betrug
+
 	1	Scamming ist definiert als bewusstes Täuschen eines anderen Spielers zum eigenen Vorteil.  
 	2	Beispiele für Scamming:  
 	◦	Verkauf von Gegenständen, die nicht existieren,  
@@ -350,6 +395,7 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.6 – Auktionen & Events
+
 	1	Bei Server-Auktionen oder -Events gelten gesonderte Regeln, die vorab angekündigt werden.  
 	2	Jeder Spieler ist verpflichtet, die Regeln dieser Events einzuhalten.  
 	3	Missbrauch während Events (z. B. Manipulation von Geboten, Bots zur Teilnahme) kann zu Ausschluss oder Bann führen.  
@@ -357,6 +403,7 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.7 – Fairness & Community
+
 	1	Spieler sollen ihre Handelsgeschäfte so gestalten, dass andere nicht benachteiligt werden.  
 	2	Das absichtliche „Aufkaufen“ aller Ressourcen oder das Monopolisieren von Items ohne Rücksicht auf andere gilt als unsportliches Verhalten und kann sanktioniert werden.  
 	3	Positive Handelspraktiken, z. B. faire Preise, transparente Angebote und Hilfestellung bei Tauschgeschäften, werden vom Team unterstützt.  
@@ -364,13 +411,15 @@ Betrug, Scamming oder Ausnutzung von Spielfehlern im Handel schädigt das Spielg
 
 
 §5.8 – Konsequenzen bei Regelverstößen
+
 	1	Verstöße gegen die Handelsregeln werden nach Schweregrad bestraft:  
 	◦	Verwarnung (leichte Verstöße),  
 	◦	temporärer Bann oder Sperre von Handelsrechten,  
 	◦	permanenter Bann bei wiederholtem oder schweren Betrug.  
 	2	Das Team kann bei Bedarf gehandelte Items zurückfordern oder die betroffenen Spieler entschädigen.  
 	3	Spieler, die wissentlich falsche Angaben machen oder andere betrügen, verlieren das Vertrauen des Teams und können vom Wirtschaftssystem ausgeschlossen werden.  
-§6 – Teams, Rechte & Support
+***§6 – Teams, Rechte & Support***
+
 §6.1 – Grundprinzip
 Teammitglieder (Admins, Moderatoren, Supporter) tragen Verantwortung für den Spielbetrieb und die Einhaltung der Regeln.
 Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisungen zu befolgen, solange diese im Rahmen der Serverregeln liegen.
@@ -378,6 +427,7 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 
 
 §6.2 – Umgang mit Teammitgliedern
+
 	1	Teammitglieder dürfen nicht bedroht, beleidigt, provoziert oder ausgenutzt werden.  
 	2	Jegliche Form von Mobbing, Belästigung oder Drohungen gegenüber Teammitgliedern führt zu sofortigen Konsequenzen.  
 	3	Diskussionen über Entscheidungen des Teams müssen ruhig, sachlich und respektvoll geführt werden.  
@@ -386,6 +436,7 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 
 
 §6.3 – Rechte der Teammitglieder
+
 	1	Teammitglieder haben das Recht, Spieler zu verwarnen, zu muten, zu kicken oder zu bannen, sofern dies den Regeln entspricht.  
 	2	Teammitglieder dürfen nur die Rechte ausüben, die ihnen offiziell zugewiesen wurden.  
 	3	Das Ausnutzen von Team-Rechten (z. B. Creative-Mode, Spawn-Command, Ban-Funktion) zum persönlichen Vorteil oder zum Schikanieren von Spielern ist verboten.  
@@ -394,6 +445,7 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 
 
 §6.4 – Supportanfragen
+
 	1	Spieler können bei Problemen den offiziellen Support kontaktieren (Discord Ticketsystem).  
 	2	Supportanfragen müssen freundlich, sachlich und nachvollziehbar formuliert sein.  
 	3	Wiederholtes Spammen oder Drängen des Teams ist nicht erlaubt.  
@@ -402,6 +454,7 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 
 
 §6.5 – Beschwerden über Teammitglieder
+
 	1	Beschwerden gegen Teammitglieder sind immer sachlich und mit Beweismaterial einzureichen (Screenshots, Chatlogs, Koordinaten).  
 	2	Beschwerden werden ausschließlich über die offiziellen Kanäle ( Discord-Ticket) bearbeitet.  
 	3	Eigenmächtige „Racheaktionen“ oder Provokationen gegenüber Teammitgliedern sind verboten.  
@@ -410,6 +463,7 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 
 
 §6.6 – Missbrauch von Rechten
+
 	1	Jeglicher Missbrauch von Rechten wird als schwerwiegender Verstoß betrachtet.  
 	2	Beispiele:  
 	◦	Verwenden von Admin-Befehlen zur Zerstörung fremder Bauwerke,  
@@ -424,26 +478,29 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 
 
 §6.7 – Verantwortung & Zusammenarbeit
+
 	1	Teammitglieder arbeiten im Interesse der gesamten Community und sollen neutral, objektiv und fair agieren.  
 	2	Spieler, die Hinweise auf Regelverstöße durch Teammitglieder geben, sollten dies vertraulich und sachlich tun.  
 	3	Zusammenarbeit zwischen Spielern und Team wird gefördert; Teamentscheidungen sollen transparente und nachvollziehbare Maßnahmen enthalten.  
 
 
-
 §6.8 – Konsequenzen bei Verstößen
+
 	1	Verstöße gegen diesen Paragraphen werden je nach Schwere geahndet:  
 	◦	Verwarnung,  
 	◦	temporäre Sperre oder Rechteentzug,  
 	◦	permanenter Ausschluss aus dem Team oder Server.  
 	2	Missbrauch von Teamrechten, Drohungen oder Belästigungen können zu sofortigen Bannmaßnahmen führen.  
 	3	Alle Spieler haben das Recht, Entscheidungen des Teams nachzuvollziehen, aber nicht, sie eigenmächtig zu umgehen  
-§7 – AFK, Farmen & Ressourcen (aktualisierte Fassung)
+***§7 – AFK, Farmen & Ressourcen (aktualisierte Fassung)***
+
 §7.1 – Grundprinzip
 Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK‑ und automatisierte Farmen sind grundsätzlich erlaubt, solange sie den Serverbetrieb nicht beeinträchtigen. Respekt vor anderen Spielern bleibt relevant, jedoch ist die Spielwelt so groß angelegt, dass flächiges Belegen von Biomen grundsätzlich toleriert wird.
 
 
 
 §7.2 – AFK‑Verhalten
+
 	1	AFK‑Spieler sind erlaubt; AFK‑Zeit an sich ist kein Regelverstoß.  
 	2	AFK‑Verhalten darf keine Server‑Performance beeinträchtigen (kein spürbarer Lag, keine übermäßige CPU-/RAM‑Last für den Server).  
 	3	Das Team kann AFK‑Setups prüfen und bei nachweislichem Lagzugriff Maßnahmen ergreifen.  
@@ -452,6 +509,7 @@ Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK�
 
 
 §7.3 – Farmen & Automatisierung
+
 	1	Automatische und AFK‑Farmen sind erlaubt, sofern sie den Server nicht merklich belasten.  
 	2	Farmsysteme dürfen einen leichten Vorteil gegenüber manuellem Spielen bringen (z. B. konstante Ressourcengewinnung), dies ist zulässig.  
 	3	Farmen dürfen ganze Biome belegen; die Welt ist so groß, dass das allein nicht als „Wegclaimen“ oder Regelverstoß gewertet wird.  
@@ -461,6 +519,7 @@ Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK�
 
 
 §7.4 – Ressourcenverteilung
+
 	1	Aufgrund der großen Spielwelt ist es erlaubt, Gebiete in großem Umfang zu nutzen; eine vollständige Sperrung ganzer Biome gilt nicht automatisch als Regelverstoß.  
 	2	Sollte ein Gebiet jedoch für neue oder andere Spieler faktisch unzugänglich werden (z. B. durch permanente Fallen, Claim‑Mechaniken außerhalb der Weltgestaltung oder gezielte Belästigung), kann das Team eingreifen.  
 	3	Gemeinschaftsräume oder ausdrücklich als öffentlich deklarierte Areale sind weiterhin gemäß ihren speziellen Regeln zu behandeln.   
@@ -468,6 +527,7 @@ Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK�
 
 
 §7.5 – Fairplay & Verantwortung
+
 	1	Trotz Erlaubnis für AFK‑ und automatische Farmen bleibt respektvolles Verhalten erwartet. Gezielt störendes Verhalten (z. B. Fallen, permanente Belästigung) ist untersagt.  
 	2	Spieler, die konstruktiv zusammenarbeiten oder Ressourcen teilen, werden positiv bewertet.  
 	3	Das Team behält sich vor, bei Missbrauch oder technischem Schaden sanktionierend einzugreifen.  
@@ -475,18 +535,22 @@ Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK�
 
 
 §7.6 – Konsequenzen bei Regelverstößen
+
 	1	Farmen, die nachweislich Lag erzeugen oder anderen Spielern den Spielzugang verhindern, können zu folgenden Maßnahmen führen:  
 	◦	Verwarnung,  
 	◦	temporäre Deaktivierung der Farm bzw. Anpassungsauflagen,  
 	◦	temporäre Sperre oder, in schweren/wiederholten Fällen, permanenter Bann.  
 	2	Das Team entscheidet anhand von Logs, Timing‑Analysen und Messdaten; im Zweifelsfall gilt: technische Belege > subjektive Aussagen.  
-§8 – Datenschutz & Sicherheit
+***§8 – Datenschutz & Sicherheit***
+
 §8.1 – Grundprinzip
+
 Der Schutz persönlicher Daten und die Sicherheit der Accounts sind für alle Spieler verpflichtend. Jeder Spieler trägt die Verantwortung für seine eigenen Daten und muss sicherstellen, dass keine unbefugten Personen Zugriff auf sein Konto oder seine privaten Informationen erhalten.
 
 
 
 §8.2 – Persönliche Daten
+
 	1	Veröffentlichung von persönlichen Daten Dritter (z. B. Name, Adresse, Telefonnummer, E-Mail, Screenshots von privaten Nachrichten) ist absolut verboten.  
 	2	Dies gilt auch für alle Plattformen (Discord, Minecraft, externe Chats, Foren).  
 	3	Verstöße gelten als Doxxing und werden streng geahndet.  
@@ -494,6 +558,7 @@ Der Schutz persönlicher Daten und die Sicherheit der Accounts sind für alle Sp
 
 
 §8.3 – Accounts & Passwörter
+
 	1	Jeder Spieler ist selbst verantwortlich, seine Account-Zugangsdaten sicher zu verwahren.  
 	2	Weitergabe von Accounts oder Passwörtern an andere Spieler ist nicht erlaubt.  
 	3	Die Nutzung von Mehrfachaccounts (Alts) ist nur mit expliziter Genehmigung des Teams erlaubt.  
@@ -502,6 +567,7 @@ Der Schutz persönlicher Daten und die Sicherheit der Accounts sind für alle Sp
 
 
 §8.4 – Server-Logs
+
 	1	Der Server speichert Logs, um Regelverstöße und Supportfälle nachvollziehen zu können.  
 	2	Logs können Bewegungen, Chat, PvP-Aktionen, Handelsvorgänge und technische Daten umfassen.  
 	3	Die Auswertung von Logs erfolgt ausschließlich durch das Team oder die Serverleitung.  
@@ -510,6 +576,7 @@ Der Schutz persönlicher Daten und die Sicherheit der Accounts sind für alle Sp
 
 
 §8.5 – Mehrfachaccounts und Bannumgehung
+
 	1	Spieler dürfen nicht versuchen, einen Bann oder eine Strafe durch Zweitaccounts zu umgehen.  
 	2	Bei nachgewiesener Bannumgehung wird nicht nur der Zweitaccount, sondern auch der Hauptaccount permanent gesperrt.  
 	3	Teamentscheidungen zu Mehrfachaccounts basieren auf technischen Nachweisen und Logs.  
@@ -517,12 +584,14 @@ Der Schutz persönlicher Daten und die Sicherheit der Accounts sind für alle Sp
 
 
 §8.6 – Sicherheit externer Verbindungen
+
 	1	Die Nutzung von unsicheren Serververbindungen, öffentlichen Proxy-Servern oder VPNs zur Umgehung von Servermechanismen ist untersagt.  
 	2	Spieler dürfen keine externen Tools oder Programme verwenden, um Zugang zu fremden Accounts, Serverdaten oder privaten Informationen zu erhalten.  
 
 
 
 §8.7 – Meldung von Sicherheitsproblemen
+
 	1	Wenn ein Spieler einen Sicherheitsfehler oder Exploit entdeckt (z. B. zum Zugriff auf Accounts, private Daten oder Logs), muss dieser unverzüglich und vertraulich dem Team gemeldet werden.  
 	2	Eigenmächtige Nutzung solcher Fehler gilt als schwerwiegender Regelverstoß und wird streng bestraft.  
 	3	Spieler, die zur Aufklärung beitragen, können bei leichter Mitwirkung auf Strafenminderung hoffen.  
@@ -530,20 +599,24 @@ Der Schutz persönlicher Daten und die Sicherheit der Accounts sind für alle Sp
 
 
 §8.8 – Konsequenzen bei Regelverstößen
+
 	1	Verstöße gegen Datenschutz- und Sicherheitsregeln werden je nach Schweregrad bestraft:  
 	◦	Verwarnung,  
 	◦	temporäre Sperre,  
 	◦	temporärer oder permanenter Bann.  
 	2	Doxxing oder der Missbrauch von Accounts und privaten Daten wird als besonders schwerwiegender Verstoß gewertet.  
 	3	Technische Beweise (Logs, Screenshots, Chatprotokolle) gelten als entscheidend für die Strafbemessung.  
-§9 – Strafen & Sanktionen
+***§9 – Strafen & Sanktionen***
+
 §9.1 – Grundprinzip
+
 Das Team ist berechtigt, bei Regelverstößen Strafen zu verhängen. Ziel ist es, die Fairness, Sicherheit und das Spielvergnügen für alle Spieler zu gewährleisten.
 Strafen werden je nach Schwere des Verstoßes verhängt und können sofort, temporär oder dauerhaft sein.
 
 
 
 §9.2 – Arten von Strafen
+
 	1	Verwarnung  
 	◦	Für leichte Regelverstöße, z. B. einmaliger Spam, kleine Provokationen oder unbeabsichtigtes Regelverletzen.  
 	◦	Kann schriftlich im Chat, Discord oder per Nachricht übermittelt werden.  
@@ -570,6 +643,7 @@ Strafen werden je nach Schwere des Verstoßes verhängt und können sofort, temp
 
 
 §9.3 – Überprüfung von Strafen
+
 	1	Jeder Spieler hat das Recht, eine Strafe überprüfen zu lassen.  
 	2	Anträge erfolgen über offizielle Kanäle (Discord-Ticket).  
 	3	Spieler müssen Beweise oder nachvollziehbare Argumente einreichen, wenn sie eine Überprüfung wünschen.  
@@ -579,6 +653,7 @@ Strafen werden je nach Schwere des Verstoßes verhängt und können sofort, temp
 
 
 §9.4 – „Ich wusste es nicht“ gilt nicht
+
 	1	Unwissenheit über die Regeln schützt nicht vor Strafen.  
 	2	Jeder Spieler ist verpflichtet, sich regelmäßig über die aktuellen Serverregeln zu informieren.  
 	3	Änderungen der Regeln werden durch Discord oder Serverankündigungen kommuniziert.  
@@ -586,6 +661,7 @@ Strafen werden je nach Schwere des Verstoßes verhängt und können sofort, temp
 
 
 §9.5 – Kombination von Strafen
+
 	1	Strafen können kombiniert werden, z. B. Mute + Verwarnung oder Kick + temporärer Bann.  
 	2	Wiederholtes Fehlverhalten erhöht automatisch die Strafschwere.  
 	3	Das Team dokumentiert alle Strafen in Logs, um Transparenz und Nachvollziehbarkeit zu gewährleisten.  
@@ -593,16 +669,19 @@ Strafen werden je nach Schwere des Verstoßes verhängt und können sofort, temp
 
 
 §9.6 – Verantwortlichkeit des Teams
+
 	1	Das Team handelt nach eigenem Ermessen, basierend auf Schweregrad, Häufigkeit und Auswirkungen des Regelverstoßes.  
 	2	Entscheidungen des Teams sind bindend, solange sie nicht formell überprüft werden.  
 	3	Spieler sollen Respekt und Kooperation zeigen, auch bei Unstimmigkeiten über Strafen.  
-§10 – Änderungen & Gültigkeit
+***§10 – Änderungen & Gültigkeit***
 §10.1 – Grundprinzip
+
 Das Serverteam behält sich das Recht vor, die Regeln jederzeit zu ändern, zu ergänzen oder anzupassen, um den Spielbetrieb, Fairness und die Sicherheit der Community zu gewährleisten.
 
 
 
 §10.2 – Ankündigung von Änderungen
+
 	1	Alle Änderungen werden offiziell im Discord angekündigt.  
 	2	Spieler sind verpflichtet, sich regelmäßig über aktuelle Regelversionen im Discord zu informieren.  
 	3	Eine separate Meldung über Website oder Ingame-Chat kann zusätzlich erfolgen, Discord gilt jedoch als verbindlich.  
@@ -610,6 +689,7 @@ Das Serverteam behält sich das Recht vor, die Regeln jederzeit zu ändern, zu e
 
 
 §10.3 – Gültigkeit der Regeln
+
 	1	Es gilt immer die aktuellste Version der Regeln, wie sie im Discord veröffentlicht wurde.  
 	2	Mit der Fortsetzung des Spielens stimmen Spieler automatisch allen geänderten Regeln zu.  
 	3	Das Team kann bei Bedarf ältere Regelversionen einsehen, um Entscheidungen im Streitfall zu überprüfen.  
@@ -617,6 +697,7 @@ Das Serverteam behält sich das Recht vor, die Regeln jederzeit zu ändern, zu e
 
 
 §10.4 – Übergangsfristen
+
 	1	Für schwerwiegende Änderungen, die das Spielverhalten stark beeinflussen, kann das Team eine Übergangsfrist einräumen.  
 	2	Während der Übergangsfrist sollten Spieler sich an die alte Regelinterpretation halten, bis die neue Regel aktiv wird.  
 	3	Die konkrete Dauer einer Übergangsfrist wird ebenfalls über Discord kommuniziert.  
@@ -624,22 +705,27 @@ Das Serverteam behält sich das Recht vor, die Regeln jederzeit zu ändern, zu e
 
 
 §10.5 – Konsequenzen bei Missachtung
+
 	1	Wer bewusst gegen neue Regeln verstößt, nachdem sie im Discord angekündigt wurden, kann ohne Vorwarnung bestraft werden.  
 	2	Das Team entscheidet über Strafen nach Schweregrad, wie in §9 geregelt.  
 	3	Die Regeländerungen gelten ab Zeitpunkt der offiziellen Discord-Ankündigung, unabhängig davon, ob ein Spieler diese gelesen hat oder nicht.  
-§11 – Zusatz für Discord
+***§11 – Zusatz für Discord***
+
 §11.1 – Grundprinzip
+
 Der Discord-Server ist ein offizieller Kommunikationskanal der Community. Alle Spieler sind verpflichtet, die Discord-Regeln einzuhalten, um ein faires, respektvolles und sicheres Miteinander zu gewährleisten.
 
 
 
 §11.2 – Community Guidelines
+
 	1	Zusätzlich gelten die Discord Community Guidelines:   https://discord.com/guidelines  
 	2	Verstöße gegen diese Guidelines oder gegen die Discord-Regeln des Servers können Strafen gemäß §9 nach sich ziehen.  
 
 
 
 §11.3 – Sprache und Kommunikation
+
 	1	Sprache im Text- und Voicechat muss angemessen und respektvoll bleiben.  
 	2	Beleidigungen, Provokationen, Diskriminierungen oder Spam werden sanktioniert.  
 	3	Persönliche Konflikte sind privat zu klären; öffentliche Streitigkeiten im Discord sind verboten.  
@@ -647,22 +733,27 @@ Der Discord-Server ist ein offizieller Kommunikationskanal der Community. Alle S
 
 
 §11.4 – Nutzung von Soundboards, Musikbots & Störgeräuschen
+
 	1	Soundboards, Musikbots oder andere akustische Effekte dürfen nur in dafür vorgesehenen Channels genutzt werden.  
 	2	Unangemessene Nutzung, die andere stört oder den Voicechat blockiert, kann zu Mute oder temporärem Ausschluss führen.  
 
 
 
 §11.5 – Änderungen der Regeln
+
 	1	Alle Regeländerungen werden ausschließlich über Discord angekündigt.  
 	2	Spieler sind verpflichtet, sich über neue Regeln zu informieren.  
 	3	Verstöße gegen kürzlich angekündigte Regeln gelten als regelwidrig, auch wenn sie nicht gelesen wurden.  
-§12 – Zusatz Serverteam
+**#§12 – Zusatz Serverteam***
+
 §12.1 – Grundprinzip
+
 Das Serverteam ist verantwortlich für den ordnungsgemäßen Ablauf des Servers, die Durchsetzung der Regeln und die Sicherheit der Community.
 
 
 
 §12.2 – Autorität des Teams
+
 	1	Entscheidungen des Serverteams sind verbindlich und endgültig.  
 	2	Das Serverteam hat immer das letzte Wort, insbesondere bei:  
 	◦	Regelinterpretationen  
@@ -673,6 +764,7 @@ Das Serverteam ist verantwortlich für den ordnungsgemäßen Ablauf des Servers,
 
 
 §12.3 – Zusammenarbeit mit Spielern
+
 	1	Spieler sollen Entscheidungen des Teams respektieren und Anweisungen befolgen.  
 	2	Diskussionen über Entscheidungen sind nur erlaubt, wenn sie ruhig, sachlich und respektvoll geführt werden.  
 	3	Das Team prüft Beschwerden, Hinweise oder Vorschläge, entscheidet jedoch nach eigenem Ermessen.  
@@ -680,6 +772,7 @@ Das Serverteam ist verantwortlich für den ordnungsgemäßen Ablauf des Servers,
 
 
 §12.4 – Konsequenzen bei Missachtung
+
 	1	Das bewusste Ignorieren oder Widersetzen gegen Teamentscheidungen kann zu sofortigen Strafen führen.  
 	2	Sanktionen können Verwarnung, Mute, Kick oder temporärer/permanenter Bann   
 
