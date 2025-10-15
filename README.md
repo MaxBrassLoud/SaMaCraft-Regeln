@@ -1,0 +1,1 @@
+# SaMaCraft-Regeln
