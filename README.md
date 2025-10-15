@@ -1,6 +1,6 @@
 # SaMaCraft-Regeln
 
-§1 – Verhalten im Allgemeinen
+***§1 – Verhalten im Allgemeinen***
 §1.1 – Grundprinzip
 Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spieler ist verpflichtet, sich so zu verhalten, dass weder das Spielerlebnis anderer noch der Ruf des Servers beeinträchtigt werden. Das betrifft sowohl das Verhalten im Spiel als auch in allen zugehörigen Plattformen (z. B. Discord, Forum, Website).
 
