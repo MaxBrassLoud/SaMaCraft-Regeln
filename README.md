@@ -44,7 +44,7 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 
 **§1.6 – Umgang mit Teamentscheidungen**
 
-1. Teamentscheidungen sind grundsätzlich zu respektieren.
+1. Teamentscheidungen sind zu respektieren und gelten bis zu einer möglichen Revision durch die Serverleitung als bindend.
 
 
 2. Wenn ein Spieler der Meinung ist, eine Ordnungsmaßnahme (z. B. Bann, Mute) sei ungerechtfertigt, darf er sachlich und respektvoll Einspruch erheben.
@@ -257,7 +257,7 @@ Wer das Spiel anderer mutwillig stört, gefährdet oder sabotiert, verstößt ge
 	-	2. Temporärer Bann oder Mute,
 	-	3. Permanenter Bann bei Wiederholung oder Vorsatz.
 
-2. Das Team behält sich vor, gestohlene Items oder zerstörte Bauwerke wiederherzustellen und dabei ggf. den Täter zu benachteiligen (z. B. durch Inventar-Reset).
+2. Das Team kann gestohlene Items oder zerstörte Bauwerke nach eigenem Ermessen wiederherstellen oder kompensieren.
 
 3. Fehlverhalten in Kombination mit Beleidigungen oder Betrug (Scam) wird als besonders schwerwiegend eingestuft.
 
@@ -292,7 +292,7 @@ Der Server darf zu jeder Zeit technische Prüfungen (z. B. AntiCheat-Logs) durch
 	- X-Ray (jegliche Form der Durchsicht von Blöcken, auch über Resourcepacks),
 	- KillAura, Aimbot, AutoHit, Reach oder TriggerBot,
 	- Speed-, Fly-, Glide- oder Jump-Hacks,
-	-  oder Rapid-Fire-Makros,
+	- Rapid-Fire-Makros,
 	- Script-Engines oder Makros zur automatischen Ausführung von Spielaktionen,
 	- Inventory-, Chest- oder Entity-ESP,
 	- Freecam oder Spectator-Cam außerhalb des vorgesehenen Spielmodus,
@@ -333,6 +333,8 @@ Der Server darf zu jeder Zeit technische Prüfungen (z. B. AntiCheat-Logs) durch
 gelten als X-Ray-Äquivalent und sind verboten.
 
 3. Shader, Licht- und Schattenmodifikationen sind erlaubt, solange sie keine Gameplay-Vorteile erzeugen.
+
+4. Servereigene Resourcepacks dürfen vom Team geändert oder verpflichtend gemacht werden, sofern sie keine unfairen Vorteile erzeugen.
 
 **§4.6 – Client-Manipulation & Bypassing**
 1. Das Umgehen, Manipulieren oder Testen des Anticheat-Systems ist ein schwerer Regelverstoß.
@@ -532,7 +534,7 @@ Spieler sind verpflichtet, die Autorität des Teams zu respektieren und Anweisun
 **§7.1 – Grundprinzip**
 Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK‑ und automatisierte Farmen sind grundsätzlich erlaubt, solange sie den Serverbetrieb nicht beeinträchtigen. Respekt vor anderen Spielern bleibt relevant, jedoch ist die Spielwelt so groß angelegt, dass flächiges Belegen von Biomen grundsätzlich toleriert wird.
 
-**§7.2 – AFK‑Verhalten*+
+**§7.2 – AFK‑Verhalten**
 
 1. AFK‑Spieler sind erlaubt; AFK‑Zeit an sich ist kein Regelverstoß.
 
