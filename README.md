@@ -1,4 +1,4 @@
-# SaMaCraft-Regeln
+### SaMaCraft-Regeln
 
 # §1 – Verhalten im Allgemeinen
 
@@ -834,5 +834,11 @@ Das Serverteam ist verantwortlich für den ordnungsgemäßen Ablauf des Servers,
 
 
 
+---
 
+# §13 – Schlussbestimmungen
+
+1. Mit dem Betreten des Servers erkennt jeder Spieler dieses Regelwerk in seiner jeweils aktuellen Fassung an.
+2. Änderungen oder Erweiterungen der Regeln werden ausschließlich im offiziellen Discord bekanntgegeben.
+3. Das Serverteam behält sich das Recht vor, Einzelfälle situationsabhängig zu beurteilen, auch wenn sie nicht ausdrücklich im Regelwerk genannt sind.
 
