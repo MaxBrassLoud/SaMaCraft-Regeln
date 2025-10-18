@@ -1,3 +1,5 @@
+[zurück](../Regeln-Link.md)
+
 # §6 – Teams, Rechte & Support
 
 **§6.1 – Grundprinzip**

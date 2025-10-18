@@ -1,4 +1,6 @@
-***§9 – Strafen & Sanktionen***
+[zurück](../Regeln-Link.md)
+
+# §9 – Strafen & Sanktionen
 
 **§9.1 – Grundprinzip**
 

@@ -1,3 +1,5 @@
+[zurück](../Regeln-Link.md)
+
 # §10 – Änderungen & Gültigkeit
 **§10.1 – Grundprinzip**
 

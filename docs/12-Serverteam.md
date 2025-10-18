@@ -1,3 +1,5 @@
+[zurück](../Regeln-Link.md)
+
 # §12 – Zusatz Serverteam
 
 **§12.1 – Grundprinzip**

@@ -9,10 +9,10 @@ Hier findest du alle aktuellen Regeln, Teaminformationen und Änderungen.
 👉 [Zum vollständigen Regelwerk](Regeln-Link.md)
 
 ## 🧍‍♂️ Team & Verwaltung
-👉 [Teamübersicht]()
+👉 [Teamübersicht](./Additions/Serverteam.md)
 
-## 🆕 Changelog
-👉 [Letzte Änderungen]()
+## 🆕 Beitreten
+👉 [Wie trete ich bei](./Additions/JoinyWoiny.md)
 
 ---
 

@@ -1,3 +1,5 @@
+[zurück](../Regeln-Link.md)
+
 # §13 – Schlussbestimmungen
 
 1. Mit dem Betreten des Servers erkennt jeder Spieler dieses Regelwerk in seiner jeweils aktuellen Fassung an.

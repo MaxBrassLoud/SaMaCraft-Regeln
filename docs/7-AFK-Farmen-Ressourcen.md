@@ -1,3 +1,5 @@
+[zurück](../Regeln-Link.md)
+
 # §7 – AFK, Farmen & Ressourcen 
 
 **§7.1 – Grundprinzip**

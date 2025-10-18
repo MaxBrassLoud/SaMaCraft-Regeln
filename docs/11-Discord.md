@@ -1,3 +1,5 @@
+[zurück](../Regeln-Link.md)
+
 # §11 – Zusatz für Discord
 
 **§11.1 – Grundprinzip**

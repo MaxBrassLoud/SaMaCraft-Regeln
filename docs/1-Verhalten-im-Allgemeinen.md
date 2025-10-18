@@ -1,4 +1,4 @@
-[zurück](Regeln-Link.md)
+[zurück](../Regeln-Link.md)
 
 # §1 – Verhalten im Allgemeinen
 
