@@ -1,5 +1,5 @@
 ### SaMaCraft-Regeln
-
+---
 # §1 – Verhalten im Allgemeinen
 
 **§1.1 – Grundprinzip**
