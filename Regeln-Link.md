@@ -1,4 +1,4 @@
-[zurück](.index.md)
+[zurück](index.md)
 
 # Regeln Übersicht
 
