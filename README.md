@@ -1,4 +1,4 @@
-### SaMaCraft-Regeln
+# SaMaCraft-Regeln
 ---
 # §1 – Verhalten im Allgemeinen
 
