@@ -6,7 +6,7 @@ Hier findest du alle aktuellen Regeln, Teaminformationen und Änderungen.
 ---
 
 ## 📜 Regelwerk
-👉 [Zum vollständigen Regelwerk](.Regeln-Link.md)
+👉 [Zum vollständigen Regelwerk](Regeln-Link.md)
 
 ## 🧍‍♂️ Team & Verwaltung
 👉 [Teamübersicht]()
