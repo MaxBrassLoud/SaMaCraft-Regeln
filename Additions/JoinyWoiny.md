@@ -9,7 +9,7 @@ Willkommen auf dem **SaMaCraft Server**! Folge diesen Schritten, um unserem Serv
 ## 1. Voraussetzungen
 
 - **Minecraft Version:** 1.21.8 (Java Edition)
-- **Internetverbindung**
+- **Internetverbindung** 
 ---
 
 ## 2. Trete unserem Discord bei
