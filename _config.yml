@@ -1,6 +1,91 @@
-theme: jekyll-theme-hacker
-title: SaMaCraft Regelwerk
-description: Offizielle Regeln, Team-Infos und Änderungen des SaMaCraft Minecraft-Servers.
-show_downloads: false
-github:
-  is_project_page: false
+# =====================================================================
+#  Jekyll-Konfiguration für Regelwerk (Just the Docs + GitHub Pages)
+# =====================================================================
+
+title: "SaMaCraft Regelwerk"
+description: "Offizielles Regelwerk für den SaMaCraft Minecraft Server"
+
+# ---------------------------------------------------------------------
+#  Domain-Setup
+# ---------------------------------------------------------------------
+# Da du eine eigene Domain (samacraft.de) nutzt, hier direkt angeben:
+url: "https://samacraft.de"
+baseurl: ""   # bleibt leer, da Seite direkt über Hauptdomain läuft
+
+# ---------------------------------------------------------------------
+#  Theme / Build
+# ---------------------------------------------------------------------
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"      # Optionen: light oder dark
+markdown: kramdown
+highlighter: rouge
+
+# ---------------------------------------------------------------------
+#  Plugins (GitHub Pages kompatibel)
+# ---------------------------------------------------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ---------------------------------------------------------------------
+#  Navigation / Sidebar Einstellungen
+# ---------------------------------------------------------------------
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+just_the_docs:
+  collections:
+    docs:
+      name: "Regelwerk"
+      nav_order: 1
+      nav_fold: true
+      search_exclude: false
+
+# ---------------------------------------------------------------------
+#  Sidebar-Links (oben rechts)
+# ---------------------------------------------------------------------
+aux_links:
+  "SaMaCraft Webseite":
+    - "https://samacraft.de"
+  "GitHub Repository":
+    - "https://github.com/MaxBrassLoud/SaMaCraft-Regeln"
+
+# ---------------------------------------------------------------------
+#  Suche
+# ---------------------------------------------------------------------
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 5
+  rel_url: true
+  button: true
+
+# ---------------------------------------------------------------------
+#  Footer / Metadaten
+# ---------------------------------------------------------------------
+footer_content: "© 2025 SaMaCraft — Alle Rechte vorbehalten."
+last_edit_timestamp: true
+last_edit_time_format: "%d.%m.%Y, %H:%M Uhr"
+
+# ---------------------------------------------------------------------
+#  Exclude (Dateien, die nicht mitgebaut werden sollen)
+# ---------------------------------------------------------------------
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - CNAME    # wird automatisch von GitHub erstellt, siehe unten
+
+# ---------------------------------------------------------------------
+#  SEO & Social
+# ---------------------------------------------------------------------
+logo: "/assets/logo.png"
+favicon_ico: "/assets/logo.png"
