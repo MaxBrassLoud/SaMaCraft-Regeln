@@ -81,7 +81,7 @@ gelten als X-Ray-Äquivalent und sind verboten.
 
 3. Spieler, die bei der Aufklärung von Exploits mithelfen, können bei leichten Verstößen auf Strafenminderung hoffen.
 
-4. bekannten Fehlern die mitlerweile Fest in der Game Mechanik verankert sind die keinen Spielerischen Vorteil bewirken ist erlaubt bei genaueren Fragen das Modteam 
+4. bekannten Fehlern die mitlerweile Fest in der Game Mechanik verankert sind die keinen Spielerischen Vorteil bewirken ist erlaubt bei genaueren Fragen das Modteam fragen 
 
 **§4.9 – Kontrolle & Nachweis**
 1. Das Team darf im Verdachtsfall Client-Logs, Screenshots oder AntiCheat-Daten auswerten.
