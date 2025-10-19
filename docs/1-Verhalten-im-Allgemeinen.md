@@ -73,3 +73,5 @@ Respekt und Fairness bilden die Grundlage des gesamten Serverbetriebs. Jeder Spi
 2. Jeder Spieler trägt Verantwortung für das Serverklima. Das absichtliche Spalten, Aufhetzen oder „Drama-Stiften“ ist untersagt.
 
 3. Gemeinsame Events, Projekte und Gemeinschaftsbauten sollen stets in einer positiven, respektvollen Atmosphäre stattfinden.
+
+4. Jegliche Art von Glücksspiel ist verboten

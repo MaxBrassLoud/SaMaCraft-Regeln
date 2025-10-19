@@ -74,21 +74,23 @@ gelten als X-Ray-Äquivalent und sind verboten.
 
 3. Discord-Bots, die unzulässige Serverdaten abrufen, sind ebenfalls untersagt.
 
-§4.8 – Meldepflicht & Zusammenarbeit
+**§4.8 – Meldepflicht & Zusammenarbeit**
 1. Wer einen Exploit, Hack oder fehlerhafte Mechanik entdeckt, ist verpflichtet, diesen sofort vertraulich an das Team zu melden.
 
 2. Wer diese Information absichtlich verschweigt, weitergibt oder selbst nutzt, macht sich des aktiven Missbrauchs schuldig.
 
 3. Spieler, die bei der Aufklärung von Exploits mithelfen, können bei leichten Verstößen auf Strafenminderung hoffen.
 
-§4.9 – Kontrolle & Nachweis
+4. bekannten Fehlern die mitlerweile Fest in der Game Mechanik verankert sind die keinen Spielerischen Vorteil bewirken ist erlaubt bei genaueren Fragen das Modteam 
+
+**§4.9 – Kontrolle & Nachweis**
 1. Das Team darf im Verdachtsfall Client-Logs, Screenshots oder AntiCheat-Daten auswerten.
 
 2. Eine Verweigerung der Zusammenarbeit bei der Aufklärung kann als Schuldeingeständnis gewertet werden.
 
 3. Der Server speichert technische Daten (z. B. Bewegungsmuster, Klickraten, Ping-Statistiken), um Hacks automatisiert zu erkennen.
 
-§4.10 – Konsequenzen
+**§4.10 – Konsequenzen**
 1. Verstöße gegen diesen Paragraphen führen sofort und ohne Vorwarnung zu einem temporären oder permanenten Bann.
 
 2. Wiederholung, Tarnung oder systematisches Hacken (z. B. über mehrere Accounts) führt zu einem Netzwerkweiten Bann.
@@ -96,3 +98,5 @@ gelten als X-Ray-Äquivalent und sind verboten.
 3. Bannumgehung durch Zweitaccounts oder VPNs verlängert die Sperre automatisch.
 
 4. Das Team behält sich vor, betroffene Spieler der Mojang/Microsoft Enforcement-Meldestelle zu melden.
+
+

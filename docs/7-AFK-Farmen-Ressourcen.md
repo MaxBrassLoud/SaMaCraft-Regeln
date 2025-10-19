@@ -51,3 +51,19 @@ Jeder Spieler soll die Möglichkeit haben, Ressourcen effizient zu sammeln. AFK�
 	- temporäre Sperre oder, in schweren/wiederholten Fällen, permanenter Bann.
 
 2. Das Team entscheidet anhand von Logs, Timing‑Analysen und Messdaten; im Zweifelsfall gilt: technische Belege > subjektive Aussagen.
+
+**§7.7 - Chunkloader**
+
+1. Chunkloader sind grundsätzlich erlaubt mit den ausnahmen:
+
+	- Sie erzeugen Lags
+
+**§7.8 - Duping**
+
+1. Duping ist grundsätzliich Verboten
+
+2. Es gibt ausnahmen wie z.B. 
+	- Kontrollierte TNT Duper welche zum Zweck von Bau oder Farmen genutzt werden. Welche im Vorhinein beim Serverteam über ein Ticket angemeldet werden müssen
+
+3. Bei Verstoß können Strafen aufkommen wie in [§4](4-Hacking-Modifikationen-Clients.md)
+
