@@ -1,0 +1,148 @@
+/* styles.css
+   Regelwerk-Design: sauber, gut lesbar, druckfreundlich, responsiv
+*/
+
+/* ---------- Basis & Reset ---------- */
+:root{
+  --bg: #f7f8fa;
+  --card: #ffffff;
+  --muted: #6b7280;
+  --accent: #1f6feb;      /* blaues Akzent */
+  --accent-2: #0f766e;    /* dezentes grün-türkis */
+  --border: #e6e9ee;
+  --text: #0f1724;
+  --max-width: 900px;
+  --radius: 12px;
+  --font-sans: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
+  --base: 16px;
+}
+
+* { box-sizing: border-box; }
+html { font-size: var(--base); -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+body{
+  margin: 0;
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: linear-gradient(180deg, var(--bg), #ffffff 60%);
+  line-height: 1.55;
+  -webkit-font-smoothing:antialiased;
+  padding: 32px 20px;
+}
+
+/* ---------- Layout ---------- */
+.container{
+  max-width: var(--max-width);
+  margin: 0 auto;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 28px 34px;
+  box-shadow: 0 6px 18px rgba(12,18,26,0.06);
+}
+
+/* leichter "zurück"-Link oben */
+.container > p:first-of-type a {
+  display:inline-block;
+  text-decoration:none;
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 8px;
+  transition: color .15s ease, transform .12s ease;
+}
+.container > p:first-of-type a:hover { color: var(--accent); transform: translateY(-1px); }
+
+/* ---------- Titelsektion ---------- */
+h1#1verhaltenimallgemeinen {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  margin: 8px 0 20px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid rgba(31,111,235,0.08);
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Optional: kleine §-Pille vor dem Titel */
+h1#1verhaltenimallgemeinen::before{
+  content: "§1";
+  background: linear-gradient(180deg, var(--accent), var(--accent-2));
+  color: white;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  box-shadow: 0 4px 10px rgba(31,111,235,0.12);
+}
+
+/* ---------- Absätze & Hervorhebungen ---------- */
+p { margin: 0 0 14px; color: #112; font-size: 1rem; }
+strong { font-weight: 700; color: #071031; }
+
+/* Listen: geordnet und ungeordnet */
+ol, ul {
+  margin: 0 0 18px 1.1rem;
+  padding: 0;
+}
+ol { counter-reset: item; }
+ol > li {
+  margin: 8px 0;
+}
+
+/* getrennte Abschnitte für §-Unterteilungen */
+.section {
+  margin: 18px 0;
+  padding: 14px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(240,243,247,0.6), rgba(255,255,255,0.6));
+  border: 1px solid rgba(230,233,238,0.7);
+}
+
+/* Kapitelüberschriften innerhalb des § */
+.section > strong {
+  display:block;
+  font-size: 1.02rem;
+  margin-bottom: 8px;
+}
+
+/* nummerierte Listen etwas eleganter */
+ol li p { margin: 0; }
+ol li { padding-left: 0.4rem; }
+
+/* kleine Details */
+ul { list-style: disc; margin-left: 1.4rem; }
+li p { margin-bottom: 6px; }
+
+/* ---------- Fußnoten, Hinweise, Muted text ---------- */
+.note {
+  font-size: 0.92rem;
+  color: var(--muted);
+  margin-top: 10px;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 640px) {
+  .container { padding: 20px; border-radius: 8px; }
+  h1#1verhaltenimallgemeinen { font-size: 1.25rem; }
+}
+
+/* ---------- Druck-Optimierung ---------- */
+@media print {
+  body { background: white; padding: 0; }
+  .container { box-shadow: none; border: none; border-radius: 0; padding: 12px; }
+  a[href]:after { content: " (" attr(href) ")"; font-size: 0.75rem; color: #333; }}
+  /* Farben auf Graustufen reduzieren */
+  /* { color-adjust: exact; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+
+/* ---------- Accessibility / Focus states ---------- */
+a:focus, button:focus, input:focus {
+  outline: 3px solid rgba(31,111,235,0.18);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+/* ---------- Anpassbare Variablen (leicht editierbar) ---------- */
+/* Falls du eine andere Farbwelt willst: ändere nur die Variablen oben */
