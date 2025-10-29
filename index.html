@@ -1,17 +1,107 @@
-<link rel="stylesheet" href="styles.css">
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SaMaCraft – Startseite</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <div class="logo">SaMaCraft</div>
+    <nav>
+      <button onclick="location.href='index.html'" class="nav-btn active">Startseite</button>
+      <button onclick="location.href='rules.html'" class="nav-btn">Regelwerk</button>
+      <button onclick="location.href='team.html'" class="nav-btn">Team</button>
+      <button onclick="location.href='news.html'" class="nav-btn">Neuigkeiten</button>
+    </nav>
+    <div class="right-controls">
+      <button id="theme-toggle" title="Theme wechseln">🌗</button>
+    </div>
+  </header>
 
+  <main>
+    <!-- Hero / Intro -->
+    <section class="intro">
+      <h1>Willkommen auf SaMaCraft</h1>
+      <p>Hier findest du alle Informationen, Regeln und Neuigkeiten rund um den SaMaCraft Minecraft Server.</p>
+      <button class="btn" onclick="location.href='rules.html'">Zum Regelwerk →</button>
+    </section>
 
-<h1 id="willkommenbeisamacraft">Willkommen bei SaMaCraft</h1>
-<p>Willkommen auf der offiziellen Dokumentationsseite des <strong>SaMaCraft Servers</strong>.<br />
-Hier findest du alle aktuellen Regeln, Teaminformationen und Änderungen.</p>
-<hr />
-<h2 id="regelwerk">📜 Regelwerk</h2>
-<p>👉 <a href="Regeln-Link.html">Zum vollständigen Regelwerk</a></p>
-<h2 id="teamverwaltung">🧍‍♂️ Team &amp; Verwaltung</h2>
-<p>👉 <a href="./Additions/Serverteam.html">Teamübersicht</a></p>
-<h2 id="beitreten">🆕 Beitreten</h2>
-<p>👉 <a href="./Additions/beitreten.html">Wie trete ich bei</a></p>
-<hr />
-<blockquote>
-  <p>Änderungen am Regelwerk werden ausschließlich über den offiziellen Discord bekanntgegeben.</p>
-</blockquote>
+    <!-- Server Banner / Quick Info -->
+    <section class="server-info">
+      <h2>🎮 Jetzt Mitspielen!</h2>
+      <div class="ip-box">
+        <p><strong>Server IP:</strong> <span id="server-ip">samacraft.de</span></p>
+        <button class="btn small" onclick="copyIP()">IP Kopieren</button>
+      </div>
+      <div class="namemc-card">
+        <h3>📊 Server-Status</h3>
+        <iframe 
+          src="https://de.namemc.com/server/samacraft.de/embed" 
+          class="namemc-frame"
+          width="728"
+          height="90"
+          loading="lazy"
+        ></iframe>
+        <p>Live-Daten von <strong>NameMC</strong></p>
+      </div>
+
+    </section>
+
+    <!-- Preview of News -->
+    <section class="news-preview">
+      <h2>📰 Neuigkeiten</h2>
+      <div class="news-container">
+
+        <!--
+				<div class="news-card">
+          <h3>Update 1.1 – Neue Farmwelten!</h3>
+          <p>Wir haben die Farmwelten Reset‐Zeiten optimiert und neue Strukturen hinzugefügt, damit du noch besser Ressourcen sammeln kannst.</p>
+          <button class="btn small" onclick="location.href='news.html'">Mehr lesen</button>
+        </div>
+				-->
+        
+
+      </div>
+      <button class="btn" onclick="location.href='news.html'">Alle News →</button>
+    </section>
+
+    <!-- Server Features -->
+    <section class="features">
+      <h2>✨ Was macht SaMaCraft besonders?</h2>
+      <div class="feature-list">
+
+        <div class="feature-item">
+          <h3>🌍 Survival mit Qualität</h3>
+          <p>Keine Pay2Win-Müllmechaniken – echtes Survival‐Feeling, mit liebevoll gestalteten Systemen.</p>
+        </div>
+
+        <div class="feature-item">
+          <h3>⚖️ Faires Wirtschaftssystem</h3>
+          <p>Ein durchdachtes Economy-System mit Jobs, Shops und Marktplatz für Spieler.</p>
+        </div>
+
+        <div class="feature-item">
+          <h3>🛡️ Aktives & faires Team</h3>
+          <p>Moderation auf Augenhöhe – freundlich, präsent, fair und ohne Abuse.</p>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2025 SaMaCraft | Designed by MaxBrassLoud</p>
+  </footer>
+
+  <script>
+    function copyIP() {
+      navigator.clipboard.writeText("samacraft.de");
+      alert("IP kopiert!");
+    }
+  </script>
+</body>
+</html>
