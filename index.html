@@ -15,6 +15,7 @@
       <button onclick="location.href='rules.html'" class="nav-btn">Regelwerk</button>
       <button onclick="location.href='team.html'" class="nav-btn">Team</button>
       <button onclick="location.href='news.html'" class="nav-btn">Neuigkeiten</button>
+		<button onclick="location.href='join.html'" class="nav-btn">Beitreten</button>
     </nav>
     <div class="right-controls">
       <button id="theme-toggle" title="Theme wechseln">🌗</button>
@@ -36,40 +37,25 @@
         <p><strong>Server IP:</strong> <span id="server-ip">samacraft.de</span></p>
         <button class="btn small" onclick="copyIP()">IP Kopieren</button>
       </div>
-      <div class="namemc-card">
-        <h3>📊 Server-Status</h3>
-        <iframe 
-          src="https://de.namemc.com/server/samacraft.de/embed" 
-          class="namemc-frame"
-          width="728"
-          height="90"
-          loading="lazy"
-        ></iframe>
-        <p>Live-Daten von <strong>NameMC</strong></p>
-      </div>
-
+      <p class="player-status">🟢 Spieler Online: <span id="player-count">–</span></p>
     </section>
 
     <!-- Preview of News -->
     <section class="news-preview">
       <h2>📰 Neuigkeiten</h2>
       <div class="news-container">
+
+        
 				<div class="news-card">
           <h3>Server Start!</h3>
           <p>Am 31.Oktober ab 19:45 wird der Server geöffnet und um 20:00 Uhr ist der Offizille Start. Am Starttermin sind Vollgende Features Verfügbar: Es gibt einen Shop in dem man dieverse Items kaufen...</p>
           <button class="btn small" onclick="location.href='news.html'">Mehr lesen</button>
         </div>
-        <!--
-				<div class="news-card">
-          <h3>Update 1.1 – Neue Farmwelten!</h3>
-          <p>Wir haben die Farmwelten Reset‐Zeiten optimiert und neue Strukturen hinzugefügt, damit du noch besser Ressourcen sammeln kannst.</p>
-          <button class="btn small" onclick="location.href='news.html'">Mehr lesen</button>
-        </div>
-				-->
+				
         
 
       </div>
-      <button class="btn" onclick="location.href='news.html'">Alle News →</button>
+      <button class="btn" onclick="location.href='news.html#Start'">Alle News →</button>
     </section>
 
     <!-- Server Features -->
@@ -79,12 +65,12 @@
 
         <div class="feature-item">
           <h3>🌍 Survival mit Qualität</h3>
-          <p>Keine Pay2Win-Müllmechaniken – echtes Survival‐Feeling, mit liebevoll gestalteten Systemen.</p>
+          <p>Keine Pay2Win-mechaniken – echtes Survival‐Feeling, mit liebevoll gestalteten Systemen.</p>
         </div>
 
         <div class="feature-item">
           <h3>⚖️ Faires Wirtschaftssystem</h3>
-          <p>Ein durchdachtes Economy-System mit Jobs, Shops und Marktplatz für Spieler.</p>
+          <p>Ein durchdachtes Economy-System mit Shops und Marktplatz für Spieler.</p>
         </div>
 
         <div class="feature-item">
